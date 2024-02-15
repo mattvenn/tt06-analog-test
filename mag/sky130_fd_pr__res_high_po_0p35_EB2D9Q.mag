@@ -1,0 +1,78 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1707991876
+<< xpolycontact >>
+rect -367 50 -297 482
+rect -367 -482 -297 -50
+rect -201 50 -131 482
+rect -201 -482 -131 -50
+rect -35 50 35 482
+rect -35 -482 35 -50
+rect 131 50 201 482
+rect 131 -482 201 -50
+rect 297 50 367 482
+rect 297 -482 367 -50
+<< ppolyres >>
+rect -367 -50 -297 50
+rect -201 -50 -131 50
+rect -35 -50 35 50
+rect 131 -50 201 50
+rect 297 -50 367 50
+<< viali >>
+rect -351 67 -313 464
+rect -185 67 -147 464
+rect -19 67 19 464
+rect 147 67 185 464
+rect 313 67 351 464
+rect -351 -464 -313 -67
+rect -185 -464 -147 -67
+rect -19 -464 19 -67
+rect 147 -464 185 -67
+rect 313 -464 351 -67
+<< metal1 >>
+rect -357 464 -307 476
+rect -357 67 -351 464
+rect -313 67 -307 464
+rect -357 55 -307 67
+rect -191 464 -141 476
+rect -191 67 -185 464
+rect -147 67 -141 464
+rect -191 55 -141 67
+rect -25 464 25 476
+rect -25 67 -19 464
+rect 19 67 25 464
+rect -25 55 25 67
+rect 141 464 191 476
+rect 141 67 147 464
+rect 185 67 191 464
+rect 141 55 191 67
+rect 307 464 357 476
+rect 307 67 313 464
+rect 351 67 357 464
+rect 307 55 357 67
+rect -357 -67 -307 -55
+rect -357 -464 -351 -67
+rect -313 -464 -307 -67
+rect -357 -476 -307 -464
+rect -191 -67 -141 -55
+rect -191 -464 -185 -67
+rect -147 -464 -141 -67
+rect -191 -476 -141 -464
+rect -25 -67 25 -55
+rect -25 -464 -19 -67
+rect 19 -464 25 -67
+rect -25 -476 25 -464
+rect 141 -67 191 -55
+rect 141 -464 147 -67
+rect 185 -464 191 -67
+rect 141 -476 191 -464
+rect 307 -67 357 -55
+rect 307 -464 313 -67
+rect 351 -464 357 -67
+rect 307 -476 357 -464
+<< properties >>
+string gencell sky130_fd_pr__res_high_po_0p35
+string library sky130
+string parameters w 0.350 l 0.50 m 1 nx 5 wmin 0.350 lmin 0.50 rho 319.8 val 1.57k dummy 0 dw 0.0 term 194.82 sterm 0.0 caplen 0 guard 0 glc 1 grc 1 gtc 1 gbc 1 compatible {sky130_fd_pr__res_high_po_0p35  sky130_fd_pr__res_high_po_0p69 sky130_fd_pr__res_high_po_1p41  sky130_fd_pr__res_high_po_2p85 sky130_fd_pr__res_high_po_5p73} snake 0 full_metal 1 wmax 0.350 vias 1 n_guard 0 hv_guard 0 viagb 0 viagt 0 viagl 0 viagr 0
+<< end >>
